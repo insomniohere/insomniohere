@@ -8,3 +8,7 @@
 ![After Effects](https://img.shields.io/badge/-After%20Effects-000000?style=for-the-badge&logo=adobe-after-effects&logoColor=9999FF)
 
 &nbsp;
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
