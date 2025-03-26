@@ -16,7 +16,7 @@
 - 🥽 Computer Science Undergraduate Student. & Open Source Enthusiast.
 - 🥽 Currently studying in SD, Dominican Republic.
 - 🥽 Ask me about Python, Adobe Systems, and my projects on here soon.
-- 🥽 Passionate about language acquisition, delving into chess theory, longboarding, and researching new developments in technology and programming.
+- 🥽 Passionate about language acquisition, delving into chess theory, longboarding, different music & art genres, and researching new developments in technology and programming.
 
 ---
 
