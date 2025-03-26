@@ -11,7 +11,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-insomniohere-181717?style=flat&logo=github)](https://github.com/insomniohere)
 [![Mail Badge](https://img.shields.io/badge/-insomniohere@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:insomniohere@gmail.com)](mailto:insomniohere@gmail.com)
-[![X](https://img.shields.io/badge/-@insomniohere-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/insomniohere)
 
 - 🥽 Anderson, nice to meet you. 
 - 🥽 Computer Science Undergraduate Student. & Open Source Enthusiast.
