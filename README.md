@@ -14,8 +14,9 @@
 [![Mail Badge](https://img.shields.io/badge/-insomniohere@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:insomniohere@gmail.com)](mailto:insomniohere@gmail.com)
 [![X](https://img.shields.io/badge/-@insomniohere-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/insomniohere)
 
-#### Hey, I'm Anderson. 
+#### Hey. 
 
+- 🥽 Anderson, nice to meet you. 
 - 🥽 Computer Science Undergraduate Student. & Open Source Enthusiast.
 - 🥽 Currently studying in SDQ, Dominican Republic.
 - 🥽 Ask me about Python, Adobe Systems and my projects soon on here.
