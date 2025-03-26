@@ -17,11 +17,11 @@
 - 🥽 Computer Science Undergraduate Student. & Open Source Enthusiast.
 - 🥽 Currently studying in SDQ, Dominican Republic.
 - 🥽 Ask me about Python, Adobe Systems, and my projects on here soon.
-- 🥽 Hoobies: 
+- 🥽 Passionate about learning new languages, chess theory, longboarding, and learning new technologies & programming languages.
 
 ---
 
-#### Languages, Tools & Technologies: 
+#### &nbsp;Languages, Tools & Technologies: 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
@@ -34,8 +34,9 @@
 
 ---
 
+#### &nbsp;Stats: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=insomniohere&theme=black" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=insomniohere&theme=dark" />
 </a>
 
 
