@@ -14,7 +14,7 @@
 
 - 🥽 Anderson, nice to meet you. 
 - 🥽 Computer Science Undergraduate Student. & Open Source Enthusiast.
-- 🥽 Currently studying in SDQ, Dominican Republic.
+- 🥽 Currently studying in SD, Dominican Republic.
 - 🥽 Ask me about Python, Adobe Systems, and my projects on here soon.
 - 🥽 Passionate about language acquisition, delving into chess theory, longboarding, and researching new developments in technology and programming.
 
