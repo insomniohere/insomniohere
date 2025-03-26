@@ -1,14 +1,34 @@
-# Skills </br>
+<p align="center">
+  <img src="https://github.com/kinoute/kinoute/blob/master/images/output.gif?raw=true" />
+</p>
+<p align="center">
+  <em>Mariko Kaga in "<a href="https://www.imdb.com/title/tt0056327">Kawaita hana</a>" (1964).</em>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=adobe-photoshop)
-![After Effects](https://img.shields.io/badge/-After%20Effects-000000?style=for-the-badge&logo=adobe-after-effects&logoColor=9999FF)
+---
 
 &nbsp;
+## Hello, Hola, Hallo, Ciao, Привет, 你好, 안녕하세요, こんにちは.
 
-<img src="https://github.com/insomniohere/insomniohere/blob/main/Assets/com--unscreen.gif" width="200" />
+[![GitHub](https://img.shields.io/badge/GitHub-insomniohere-181717?style=flat&logo=github)](https://github.com/insomniohere)
+[![Mail Badge](https://img.shields.io/badge/-insomniohere@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:insomniohere@gmail.com)](mailto:insomniohere@gmail.com)
+[![X](https://img.shields.io/badge/-@insomniohere-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/insomniohere)
 
-hey
+#### Hey, I'm Anderson. 
+
+- 🥽 Computer Science Undergraduate Student. & Open Source Enthusiast.
+- 🥽 Currently studying in SDQ, Dominican Republic.
+- 🥽 Ask me about Python, Adobe Systems and my projects soon on here.
+
+---
+
+#### Languages, Tools, Technologies: 
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"/>
+<img align="left" alt="After Effects" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg"/>
+<br />
+
+
