@@ -17,6 +17,7 @@
 - 🥽 Computer Science Undergraduate Student. & Open Source Enthusiast.
 - 🥽 Currently studying in SDQ, Dominican Republic.
 - 🥽 Ask me about Python, Adobe Systems, and my projects on here soon.
+- 🥽 Hoobies: 
 
 ---
 
@@ -30,4 +31,11 @@
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"/>
 <img align="left" alt="After Effects" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg"/>
 <br />
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=insomniohere&theme=black" />
+</a>
+
 
