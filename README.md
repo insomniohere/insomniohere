@@ -12,7 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-insomniohere-181717?style=flat&logo=github)](https://github.com/insomniohere)
 [![Mail Badge](https://img.shields.io/badge/-insomniohere@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:insomniohere@gmail.com)](mailto:insomniohere@gmail.com)
 
-- 🥽 Anderson Rosello, nice to meet you. 
+- 🥽 Anderson, nice to meet you. 
 - 🥽 Computer Science Undergraduate Student. & Open Source Enthusiast.
 - 🥽 Currently studying in SDQ, Dominican Republic.
 - 🥽 Ask me about Python, Adobe Systems, and my projects on here soon.
