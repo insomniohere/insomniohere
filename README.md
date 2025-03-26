@@ -17,7 +17,7 @@
 - 🥽 Computer Science Undergraduate Student. & Open Source Enthusiast.
 - 🥽 Currently studying in SDQ, Dominican Republic.
 - 🥽 Ask me about Python, Adobe Systems, and my projects on here soon.
-- 🥽 Passionate about learning new languages, chess theory, longboarding, and learning new technologies & programming languages.
+- 🥽 Passionate about language acquisition, delving into chess theory, longboarding, and researching new developments in technology and programming.
 
 ---
 
@@ -31,12 +31,4 @@
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"/>
 <img align="left" alt="After Effects" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg"/>
 <br />
-
----
-
-#### &nbsp;Stats: 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=insomniohere&theme=dark" />
-</a>
-
 
